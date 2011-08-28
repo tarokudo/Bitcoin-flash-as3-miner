@@ -1,0 +1,1 @@
+This is a Bitcoin miner engine writen in flash as3.The code is used in http://www.bitppt.com/Please notice*No getWork() function from Bitcoin server.*No sending work function to bitcoin network.This code is MIT licence.Created by Taro Kudo & friends.
