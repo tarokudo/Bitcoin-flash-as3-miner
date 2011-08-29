@@ -9,7 +9,7 @@ and judge it if it's a valid block for Bitcoin network to send.
 *No sending work function to bitcoin network.
 *Speed is arround 50Kh/s to 80Kh/s
 
-This code is MIT license.
+Licence(MIT license)
 
 Copyright (c) 2011 Taro Kudo
 Permission is hereby granted, free of charge, to any person obtaining a 
